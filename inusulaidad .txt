@@ -1,0 +1,10 @@
+  inusulaidad 
+
+
+numero dado x probabilidad
+sqrt np(1-p)
+
+
+obtener una posibildad random
+cantidad esperada en x muestras
+ sqrt pxnumero dado
